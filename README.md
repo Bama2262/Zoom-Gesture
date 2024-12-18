@@ -1,1 +1,2 @@
 # Zoom-Gesture
+HandZoom is a project that allows users to control the zoom function on a computer screen using just hand movements. Using a laptop camera and libraries such as OpenCV, CVZone, and HandDetector, this program detects the position and movement of fingers to adjust the zoom level.
