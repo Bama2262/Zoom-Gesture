@@ -1,7 +1,3 @@
-# close all fingers = zoom in
-# open all fingers = zoom out
-# open the index finger and middle finger = no zoom
-
 import cv2
 from cvzone.HandTrackingModule import HandDetector
 
